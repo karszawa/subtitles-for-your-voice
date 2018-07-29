@@ -1,0 +1,14 @@
+.subtitles-for-your-voice-container {
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  bottom: 0px;
+  background-color: rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  z-index: 2147483647;
+
+  padding: 10px;
+  font-size: 35px;
+  color: white;
+  overflow: auto;
+}
