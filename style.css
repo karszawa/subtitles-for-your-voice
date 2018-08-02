@@ -7,8 +7,9 @@
   pointer-events: none;
   z-index: 2147483647;
 
-  padding: 10px;
-  font-size: 35px;
+  padding: 10px 40px;
+	line-height: 44px;
+  font-size: 36px
   color: white;
   overflow: auto;
 }
